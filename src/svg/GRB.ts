@@ -1,0 +1,12 @@
+export const ADP = 'ADP';
+export const GBG = 'GBG';
+export const WPI = 'WPI';
+export const WRI = 'WRI';
+export const WBN = 'WBN';
+export const WVB = 'WVB';
+export const WGO = 'WGO';
+export const TBLGBGADR = 'TBLGBGADR';
+export const GVL = 'GVL';
+export const GVP = 'GVP';
+export const WLI = 'WLI';
+export const WTI = 'WTI';

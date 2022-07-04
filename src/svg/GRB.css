@@ -1,0 +1,29 @@
+.ADP {
+  fill: #fff5c8;
+  stroke: #f5f5f5;
+}
+
+.GBG {
+  stroke-width: 0.3px;
+  stroke: #bd3232;
+}
+
+.GBG__1 {
+  fill: #fa7d69;
+}
+
+.GBG__2 {
+  fill: #fa9b87;
+}
+
+.WBN {
+  stroke: none;
+}
+
+.WBN__1 {
+  fill: #b7b7b7;
+}
+
+.WBN__2 {
+  fill: #cccccc;
+}
